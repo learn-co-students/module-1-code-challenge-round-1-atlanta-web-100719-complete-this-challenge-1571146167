@@ -1,7 +1,6 @@
 # Object Relations Code Challenge
 
-For this assignment, we'll be working with a Yelp-style domain. We have three models - `Restaurant`, `Customer`, and `Review`.
-For our purposes, a `Restaurant` has many `Reviews`, a `Customer` has many `Reviews`, and a `Review` belongs to a `Customer` and to a `Restaurant`.
+For this assignment, we'll be work  `Review` belongs to a `Customer` and to a `Restaurant`.
 `Restaurant` - `Customer` is a many to many relationship.
 
 If you are not sketching out your domain, and thinking about single source of truth,
